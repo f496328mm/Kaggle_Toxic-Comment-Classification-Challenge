@@ -2,6 +2,8 @@
 
 https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
+Evaluate is the mean column-wise ROC AUC.
+
 |model|Private Score|Public Score|
 |-----|-------------|------------|
 |LSTM|0.9783|0.9804|
